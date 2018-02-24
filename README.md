@@ -10,6 +10,7 @@ The MATLAB Engine can be used to call MATLAB from within C++ applications. This 
 
 Some of the code used in the wrapper have been adapted from Andrej Karpathy's code. 
 
+https://kyaw.xyz/2017/12/18/c-wrapper-classes-matlab-engine/
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
